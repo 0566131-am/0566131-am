@@ -44,13 +44,6 @@
 
 <br/>
 
-<h3 align="left">📊 Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0566131-am&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<br/>
-
 <h3 align="left">🔥 GitHub Streak:</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=0566131-am&theme=radical&hide_border=true&border_radius=10" alt="github streak" />
