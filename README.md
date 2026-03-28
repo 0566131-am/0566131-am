@@ -8,7 +8,6 @@
 <br/>
 
 - 🌱 I'm currently learning **Machine Learning, Cloud (AWS, Azure), Java**
-- 💬 Ask me about **React, Vue and GSAP**
 - 📫 How to reach me: **pathanmubeena83@gmail.com**
 - ⚡ Fun fact: **I love building things that make a difference!**
 
@@ -90,20 +89,16 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 Top Languages:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0566131-am&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0566131-am&layout=donut&theme=radical&hide_border=true" alt="top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0566131-am&layout=compact&theme=radical" alt="top languages" />
-</p>
+<br/>
+
+<h3 align="left">🔥 GitHub Streak:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0566131-am&theme=radical" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0566131-am&theme=radical&row=1" alt="trophy" />
+  <img src="https://streak-stats.demolab.com/?user=0566131-am&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="github streak" />
 </p>
